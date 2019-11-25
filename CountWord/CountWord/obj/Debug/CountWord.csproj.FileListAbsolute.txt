@@ -1,0 +1,7 @@
+C:\Users\ssriramoju\source\repos\CountWord\CountWord\obj\Debug\CountWord.csproj.CoreCompileInputs.cache
+C:\Users\ssriramoju\source\repos\CountWord\CountWord\bin\CountWord.dll.config
+C:\Users\ssriramoju\source\repos\CountWord\CountWord\bin\CountWord.dll
+C:\Users\ssriramoju\source\repos\CountWord\CountWord\bin\CountWord.pdb
+C:\Users\ssriramoju\source\repos\CountWord\CountWord\obj\Debug\CountWord.dll
+C:\Users\ssriramoju\source\repos\CountWord\CountWord\obj\Debug\CountWord.pdb
+C:\Users\ssriramoju\source\repos\CountWord\CountWord\obj\Debug\CountWord.csprojAssemblyReference.cache
